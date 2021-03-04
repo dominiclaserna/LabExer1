@@ -1,37 +1,16 @@
-body {
-  background-color: lightblue;
-}p.dotted {border-style: dotted;}
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
 
-
-h1 {
-  color: green;
-  text-align: center;font-size: 70px;
-
-}
-h2 {
-  color: yellow;
-  text-align: center;font-size: 60px;
-}h3 {
-  color: pink;
-  text-align: center;font-size: 50px;
-}h4 {
-  color: orange;
-  text-align: center;font-size: 40px;
-}h5 {
-  color: violet;
-  text-align: center;font-size: 40px;
-}h6 {
-  color: white;
-  text-align: center;font-size: 40px;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<title>All about me</title>
+ <link rel="stylesheet" href="dom.css">
+</head><img src="https://www.getthatright.com/wp-content/uploads/2017/08/Chris-Evans-Top-10-Most-Handsome-Boys-in-the-World.jpg" alt="me"width="500" height="600">
+ <h1><strong>My name is Luis Dominic B. Laserna.</strong></h1>
+<h2>You can call me Dominic.</h2>
+<h3>My favorite CMSC subject is CMSC 57.</h3>
+<h4>I dont have a favorite GE po huhu</h4>
+<h5>My favorite programming language is C, Very needed po so I dont have a choice huhu</h5>
+<h6>My favorite food is FRIED CHIMKEN HEHEHHEHE</h6>
+</body>
+</html>
