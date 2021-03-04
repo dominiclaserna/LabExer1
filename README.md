@@ -1,15 +1,22 @@
-<!DOCTYPE html>
-<html>
-<body>
-<head><link rel="stylesheet" href="dom2.css">
-<img src="https://data-starcinema.abs-cbn.com/starcinema/starcinema/media/august-2019/10/daniel-820.jpg?ext=.jpg" alt="me with a ball"></head>
-<h1>My Hobbies</h1>
-<ul>
-	<li>Cycling</li>
-	<li>Playing with my dog</li>
-	<li>Basketball</li>
-</ul>
-<h2>My Childhood Dream</h2>
-<p>I wanted to become a baskteball player so bad when I was younger. I bet the younger me would be disappointed if he were to meet the me today seeing how unfit I am to play basketball anymore.</p>
-</body>
-</html>
+body {
+  background-color: yellow;
+}
+h1 {
+  color: red;
+  text-align: left;
+  font-size: 40px;
+
+}
+ul {color: blue;
+	text-align: left;
+	font-size: 30px;
+}
+h2 {
+  color: green;
+  text-align: center;
+  font-size:30px;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
